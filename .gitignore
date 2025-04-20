@@ -1,0 +1,4 @@
+/.env
+/__pycache__
+/chatbot_frontend.tldr
+/sentiment_model_training\src\__pycache__
